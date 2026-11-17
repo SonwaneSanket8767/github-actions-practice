@@ -1,6 +1,7 @@
 # This code is from https://github.com/LondheShubham153/flask-app-ecs/tree/main
 #checking
 # Flask App
+echo "hello dosto"
 from flask import Flask, render_template
 app = Flask(__name__)
 
