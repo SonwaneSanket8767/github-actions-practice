@@ -6,7 +6,7 @@ on:
   workflow_dispatch: 
 
 # Job tells what the workflow should do, there can be one or more than one jobs, hence we write Jobs
-# jobs is an object so needs indentation
+# jobs is an object so needs indentations
 
 jobs:
   # 1st Job (give indentation) 
