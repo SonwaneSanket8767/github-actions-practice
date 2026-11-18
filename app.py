@@ -1,5 +1,6 @@
 # This code is from https://github.com/LondheShubham153/flask-app-ecs/tree/main
 # Flask App
+print ("HEllo My frands")
 from flask import Flask, render_template
 
 app = Flask(__name__)
