@@ -4,6 +4,7 @@ print ("hello Dosto")
 from flask import Flask, render_template
 app = Flask(__name__)
 
+if none;
 
 @app.route('/')
 def hello_world():
